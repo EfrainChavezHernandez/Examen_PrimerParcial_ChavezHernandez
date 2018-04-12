@@ -9,5 +9,19 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        String usuario = "efrain";
+        String password = "123";
+        String Newusuario = "";
+        String Newpassword = "";
+
+
+
+        if(usuario.equals("efrain")&&password.equals("123")){
+
+        };
     }
+
+
 }
+
